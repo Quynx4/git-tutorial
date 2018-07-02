@@ -1,2 +1,3 @@
-V� d? tao 1 file text
+﻿Ví d? tao 1 file text
  cap nhat lai file cu
+pull: Lấy nội dung của remote repository
