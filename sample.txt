@@ -1,3 +1,4 @@
 ﻿Ví d? tao 1 file text
  cap nhat lai file cu
 commit: Lưu lại trạng thái của index
+pull: Lấy nội dung của remote repository
